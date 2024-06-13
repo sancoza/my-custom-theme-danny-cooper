@@ -1,3 +1,11 @@
+wordpress Cheat Sheet:
+https://blog.sellfy.com/wp-content/uploads/2014/12/wordpress-cheat-sheet.pdf.png
+https://appsero.com/app/uploads/2022/07/WordPress-Theme-Anatomy.png
+
+tutorial:
+https://websitesetup.org/wordpress-theme-development/
+
+
 === My Custom Theme ===
 Requires at least: 5.0
 Tested up to: 5.4
